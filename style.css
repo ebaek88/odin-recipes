@@ -1,0 +1,29 @@
+body {
+  width: 70vw;
+  height: 100vh;
+  margin: 0 auto;
+  background-color: rgb(159, 222, 159);
+}
+
+h1 {
+  padding-top: 15vh;
+  text-align: center;
+}
+
+ul {
+  padding-left: 0;
+  padding-top: 7vh;
+  height: 76vh;
+  /* width: 50%; */
+  /* padding-top: 15vh; */
+  margin: 0 auto;
+  background-color: bisque;
+  font-size: 1.2rem;
+}
+
+.recipe-list li {
+  width: 50%;
+  /* margin: 0 auto; */
+  margin-left: 20vw;
+  padding-bottom: 3vh;
+}
